@@ -8,3 +8,11 @@ __pycache__/
 .last_checked
 .gitconfig
 .ipynb_checkpoints/
+
+# images downloaded from the internet
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.tiff
+bird_or_not/
